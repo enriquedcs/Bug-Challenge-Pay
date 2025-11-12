@@ -10,3 +10,5 @@ Find as many bugs/defects/flaws as you can in the UI and the API and create a  r
 
 ├── Defect Report Paylocity_Split.pdf   # Defect Report including UI and API bugs
 ├── Test Cases.xlsx               # Test Cases created for testing the application
+└── GIF file                    # Only video showing an speciic bug in UI
+```
